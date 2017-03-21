@@ -1,0 +1,590 @@
+[
+ {
+   "FIELD1": "Number",
+   "FIELD2": "Name of recipient",
+   "FIELD3": "Date of Resolution",
+   "FIELD4": "Date of Signature",
+   "FIELD5": "Notes"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "Isaac Butt",
+   "FIELD3": "4 September 1876",
+   "FIELD4": "16 October 1876",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "W.E. Gladstone",
+   "FIELD3": "1 November 1877",
+   "FIELD4": "7 November 1877",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "U.S. Grant",
+   "FIELD3": "30 December 1878",
+   "FIELD4": "3 January 1879",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "Edward E. Potter",
+   "FIELD3": "26 April 1880",
+   "FIELD4": "4 May 1880",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "Charles S. Parnell",
+   "FIELD3": "3 January 1882",
+   "FIELD4": "16 August 1882",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "John Dillon",
+   "FIELD3": "3 January 1882",
+   "FIELD4": "16 August 1882",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "Kevin Izod O�Doherty",
+   "FIELD3": "10 August 1885",
+   "FIELD4": "1 September 1885",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "8",
+   "FIELD2": "Patrick A. Collins",
+   "FIELD3": "22 July 1887",
+   "FIELD4": "2 August 1887",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "9",
+   "FIELD2": "William O�Brien",
+   "FIELD3": "22 July 1887",
+   "FIELD4": "2 August 1887",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "10",
+   "FIELD2": "[The Marquess of] Ripon",
+   "FIELD3": "16 January 1888",
+   "FIELD4": "2 February 1888",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "11",
+   "FIELD2": "John Morley",
+   "FIELD3": "16 January 1888",
+   "FIELD4": "2 February 1888",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "12",
+   "FIELD2": "Patrick F. Cardinal Moran",
+   "FIELD3": "1 October 1888",
+   "FIELD4": "4 October 1888",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "13",
+   "FIELD2": "Margaret Sandhurst",
+   "FIELD3": "19 September 1889",
+   "FIELD4": "20 September 1889",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "14",
+   "FIELD2": "James Stansfeld",
+   "FIELD3": "19 September 1889",
+   "FIELD4": "20 September 1889",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "15",
+   "FIELD2": "George Salmon",
+   "FIELD3": "14 March 1892",
+   "FIELD4": "30 June 1892",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "16",
+   "FIELD2": "Stuart Knill",
+   "FIELD3": "23 December 1892",
+   "FIELD4": "2 January 1893",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "9a",
+   "FIELD2": "Timothy Daniel Sullivan",
+   "FIELD3": "10 December 1887",
+   "FIELD4": "24 October 1893",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "9b *",
+   "FIELD2": "Thomas Sexton",
+   "FIELD3": "28 December 1887",
+   "FIELD4": "Did not sign roll",
+   "FIELD5": "Thomas Sexton did not sign the Roll of Honorary Freedom.  His name has been added in pencil by another hand"
+ },
+ {
+   "FIELD1": "17",
+   "FIELD2": "J.E. Redmond",
+   "FIELD3": "18-Dec-01",
+   "FIELD4": "03-Apr-02",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "18",
+   "FIELD2": "P. A. McHugh",
+   "FIELD3": "30-Oct-01",
+   "FIELD4": "03-Apr-02",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "19",
+   "FIELD2": "An Craoibh�n Aoibh�n[Douglas Hyde]",
+   "FIELD3": "29-Jun-06",
+   "FIELD4": "07-Aug-06",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "20",
+   "FIELD2": "Spencer Harty",
+   "FIELD3": "02-Sep-07",
+   "FIELD4": "No date given",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "20a *",
+   "FIELD2": "Hugh P. Lane",
+   "FIELD3": "10-Feb-08",
+   "FIELD4": "Did not sign roll",
+   "FIELD5": "Sir Hugh Lane did not sign the Roll of Honorary Freedom.  His name was added in pencil by a later hand."
+ },
+ {
+   "FIELD1": "",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "21",
+   "FIELD2": "Richard Croker",
+   "FIELD3": "01-Jul-07",
+   "FIELD4": "24-Aug-08",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "22",
+   "FIELD2": "E. O�Meagher Condon",
+   "FIELD3": "28-Sep-09",
+   "FIELD4": "04-Oct-09",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "23",
+   "FIELD2": "Charles A. Cameron",
+   "FIELD3": "30-Sep-10",
+   "FIELD4": "20-Feb-11",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "24**",
+   "FIELD2": "Kuno Meyer",
+   "FIELD3": "18-Jul-11",
+   "FIELD4": "22-Apr-12",
+   "FIELD5": "Inspired by a wave of anti-German sentiment prevalent during the First World War, Dublin City Council voted on 15 March 1915 to expunge the name of Kuno Meyer from the Roll of  Honorary Freedom. The expunging resolution was rescinded by Dublin City Council on 19 April 1920, after Dr. Meyer�s death."
+ },
+ {
+   "FIELD1": "",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "25",
+   "FIELD2": "Peadar Ua Laoghaire",
+   "FIELD3": "18-Jul-11",
+   "FIELD4": "22-Apr-12",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "25a ***",
+   "FIELD2": "Daniel Mannix",
+   "FIELD3": "05-Aug-20",
+   "FIELD4": "Did not sign roll",
+   "FIELD5": "Archbishop Daniel Mannix did not sign the Roll.  His name was added in pencil by a later hand."
+ },
+ {
+   "FIELD1": "26",
+   "FIELD2": "John McCormack",
+   "FIELD3": "03-Sep-23",
+   "FIELD4": "06-Sep-23",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "27",
+   "FIELD2": "Ehrenfried Gunther Baron von Hunefeld",
+   "FIELD3": "30-Jun-28",
+   "FIELD4": "03-Jul-28",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "28",
+   "FIELD2": "Hermann Koehl",
+   "FIELD3": "30-Jun-28",
+   "FIELD4": "03-Jul-28",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "29",
+   "FIELD2": "James C.  Fitzmaurice",
+   "FIELD3": "30-Jun-28",
+   "FIELD4": "03-Jul-28",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "30",
+   "FIELD2": "Frank B. Kellogg",
+   "FIELD3": "25-Aug-28",
+   "FIELD4": "30-Aug-28",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "31",
+   "FIELD2": "Lorenzo Cardinal Lauri",
+   "FIELD3": "02-May-32",
+   "FIELD4": "27-Jun-32",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "32",
+   "FIELD2": "John Lavery",
+   "FIELD3": "12-Aug-35",
+   "FIELD4": "17-Sep-35",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "33",
+   "FIELD2": "John Purser Griffith",
+   "FIELD3": "04-May-36",
+   "FIELD4": "08-Jun-36",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "34",
+   "FIELD2": "G. Bernard Shaw",
+   "FIELD3": "04-Mar-46",
+   "FIELD4": "28-Aug-46",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "35",
+   "FIELD2": "Richard J. Cushing",
+   "FIELD3": "16-Sep-49",
+   "FIELD4": "16-Sep-49",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "36",
+   "FIELD2": "Paul A. Dever",
+   "FIELD3": "",
+   "FIELD4": "16-Sep-49",
+   "FIELD5": "16-Sep-49"
+ },
+ {
+   "FIELD1": "37",
+   "FIELD2": "Sean T. O Ceallaigh",
+   "FIELD3": "04-May-53",
+   "FIELD4": "02-Jun-53",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "38",
+   "FIELD2": "John Cardinal D�Alton",
+   "FIELD3": "04-May-53",
+   "FIELD4": "02-Jun-53",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "39",
+   "FIELD2": "Gerald P. O�Hara",
+   "FIELD3": "12-Jul-54",
+   "FIELD4": "27-Jul-54",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "44*",
+   "FIELD2": "A. Chester Beatty",
+   "FIELD3": "07-Nov-55",
+   "FIELD4": "26-Jul-56",
+   "FIELD5": "The numbering system, which had been disrupted by the insertion of nos. 9a, 9b, 20a and 25b, was brought into correct sequence in 1955.   The next recipient, Sir Alfred Chester Beatty, who was the 44th person to receive the Honorary Freedom of Dublin, was numbered accordingly as no. 44."
+ },
+ {
+   "FIELD1": "45",
+   "FIELD2": "John F. Norton",
+   "FIELD3": "11-Aug-58",
+   "FIELD4": "28-Oct-58",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "46",
+   "FIELD2": "G.P. Cardinal Agagianian",
+   "FIELD3": "01-May-61",
+   "FIELD4": "22-Jun-61",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "47",
+   "FIELD2": "Michael Cardinal Browne",
+   "FIELD3": "16-Jul-62",
+   "FIELD4": "23-Aug-62",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "48",
+   "FIELD2": "John F. Kennedy",
+   "FIELD3": "27-May-63",
+   "FIELD4": "28-Jun-63",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "49",
+   "FIELD2": "Hilton R.H. Edwards",
+   "FIELD3": "11-Jun-73",
+   "FIELD4": "22-Jun-73",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "50",
+   "FIELD2": "Miche�l Mac Liamm�ir",
+   "FIELD3": "11-Jun-73",
+   "FIELD4": "22-Jun-73",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "51",
+   "FIELD2": "Eamon de Valera",
+   "FIELD3": "03-Feb-75",
+   "FIELD4": "07-Mar-75",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "52",
+   "FIELD2": "John A. Costello",
+   "FIELD3": "03-Feb-75",
+   "FIELD4": "07-Mar-75",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "53",
+   "FIELD2": "Joannes Paulus PP. II",
+   "FIELD3": "24-Sep-79",
+   "FIELD4": "29-Sep-79",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "54",
+   "FIELD2": "Noel Purcell",
+   "FIELD3": "22-Jun-84",
+   "FIELD4": "28-Jun-84",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "55",
+   "FIELD2": "Maureen Potter (O�Leary)",
+   "FIELD3": "22-Jun-84",
+   "FIELD4": "28-Jun-84",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "56",
+   "FIELD2": "Akihito",
+   "FIELD3": "20-Feb-85",
+   "FIELD4": "04-Mar-85",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "57",
+   "FIELD2": "Michiko",
+   "FIELD3": "20-Feb-85",
+   "FIELD4": "04-Mar-85",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "58",
+   "FIELD2": "Stephen Roche",
+   "FIELD3": "28-Sep-87",
+   "FIELD4": "29-Sep-87",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "59",
+   "FIELD2": "Nelson Mandela",
+   "FIELD3": "18-Jul-88",
+   "FIELD4": "01-Jul-90",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "60",
+   "FIELD2": "P�draig Ua hIrighile",
+   "FIELD3": "04-Mar-91",
+   "FIELD4": "22-Apr-91",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "61",
+   "FIELD2": "M. Teresa M.C.",
+   "FIELD3": "01-Feb-93",
+   "FIELD4": "02-Jun-93",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "62",
+   "FIELD2": "John [Jack] Charlton",
+   "FIELD3": "11-Apr-94",
+   "FIELD4": "26-May-94",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "63",
+   "FIELD2": "William J. Clinton",
+   "FIELD3": "06-Nov-95",
+   "FIELD4": "01-Dec-95",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "64",
+   "FIELD2": "Gabriel M. Byrne",
+   "FIELD3": "12-Apr-99",
+   "FIELD4": "11-May-99",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "65*",
+   "FIELD2": "Aung San Suu Kyi",
+   "FIELD3": "01-Nov-99",
+   "FIELD4": "18-Jun-02",
+   "FIELD5": "Aung San Suu Kyi was under house arrest in Burma when she received the Honorary Freedom of Dublin - she signed the Roll of Honour on the 18th June 2012 in Dublin."
+ },
+ {
+   "FIELD1": "66",
+   "FIELD2": "Paul McGuinness",
+   "FIELD3": "01-Nov-99",
+   "FIELD4": "18-Mar-00",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "67",
+   "FIELD2": "The Edge",
+   "FIELD3": "01-Nov-99",
+   "FIELD4": "18-Mar-00",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "68",
+   "FIELD2": "Larry Mullen Junior",
+   "FIELD3": "01-Nov-99",
+   "FIELD4": "18-Mar-00",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "69",
+   "FIELD2": "Adam Clayton",
+   "FIELD3": "01-Nov-99",
+   "FIELD4": "18-Mar-00",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "70",
+   "FIELD2": "Bono",
+   "FIELD3": "01-Nov-99",
+   "FIELD4": "18-Mar-00",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "71",
+   "FIELD2": "Mikhail Gorbachev",
+   "FIELD3": "03-Dec-01",
+   "FIELD4": "09-Jan-02",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "72",
+   "FIELD2": "Kevin Heffernan",
+   "FIELD3": "01-Mar-04",
+   "FIELD4": "17-May-04",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "73",
+   "FIELD2": "Ronnie Delany",
+   "FIELD3": "05-Sep-05",
+   "FIELD4": "05-Mar-06",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "74",
+   "FIELD2": "Bob Geldof",
+   "FIELD3": "05-Sep-05",
+   "FIELD4": "05-Mar-06",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "75",
+   "FIELD2": "Thomas Kinsella",
+   "FIELD3": "05-Feb-07",
+   "FIELD4": "24-May-07",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "76",
+   "FIELD2": "Louis Le Brocquy",
+   "FIELD3": "05-Feb-07",
+   "FIELD4": "24-May-07",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "77",
+   "FIELD2": "Fr. Peter McVerry SJ",
+   "FIELD3": "04-Nov-13",
+   "FIELD4": "22-Mar-14",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "78",
+   "FIELD2": "Brian O'Driscoll",
+   "FIELD3": "04-Nov-13",
+   "FIELD4": "22-Mar-14",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "79",
+   "FIELD2": "Bro. Kevin Crowley OFM Cap",
+   "FIELD3": "01-Sep-14",
+   "FIELD4": "28-Feb-15",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "80",
+   "FIELD2": "John Giles",
+   "FIELD3": "01-Sep-14",
+   "FIELD4": "28-Feb-15",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "81",
+   "FIELD2": "Fr. Joseph Malin SJ",
+   "FIELD3": "07-Mar-16",
+   "FIELD4": "21-Mar-16",
+   "FIELD5": ""
+ }
+]
