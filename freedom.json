@@ -1,590 +1,583 @@
 [
  {
-   "FIELD1": "Number",
-   "FIELD2": "Name of recipient",
-   "FIELD3": "Date of Resolution",
-   "FIELD4": "Date of Signature",
-   "FIELD5": "Notes"
+   "Number": "1",
+   "Name of recipient": "Isaac Butt",
+   "Date of Resolution": "4 September 1876",
+   "Date of Signature": "16 October 1876",
+   "Notes": ""
  },
  {
-   "FIELD1": "1",
-   "FIELD2": "Isaac Butt",
-   "FIELD3": "4 September 1876",
-   "FIELD4": "16 October 1876",
-   "FIELD5": ""
+   "Number": "2",
+   "Name of recipient": "W.E. Gladstone",
+   "Date of Resolution": "1 November 1877",
+   "Date of Signature": "7 November 1877",
+   "Notes": ""
  },
  {
-   "FIELD1": "2",
-   "FIELD2": "W.E. Gladstone",
-   "FIELD3": "1 November 1877",
-   "FIELD4": "7 November 1877",
-   "FIELD5": ""
+   "Number": "3",
+   "Name of recipient": "U.S. Grant",
+   "Date of Resolution": "30 December 1878",
+   "Date of Signature": "3 January 1879",
+   "Notes": ""
  },
  {
-   "FIELD1": "3",
-   "FIELD2": "U.S. Grant",
-   "FIELD3": "30 December 1878",
-   "FIELD4": "3 January 1879",
-   "FIELD5": ""
+   "Number": "4",
+   "Name of recipient": "Edward E. Potter",
+   "Date of Resolution": "26 April 1880",
+   "Date of Signature": "4 May 1880",
+   "Notes": ""
  },
  {
-   "FIELD1": "4",
-   "FIELD2": "Edward E. Potter",
-   "FIELD3": "26 April 1880",
-   "FIELD4": "4 May 1880",
-   "FIELD5": ""
+   "Number": "5",
+   "Name of recipient": "Charles S. Parnell",
+   "Date of Resolution": "3 January 1882",
+   "Date of Signature": "16 August 1882",
+   "Notes": ""
  },
  {
-   "FIELD1": "5",
-   "FIELD2": "Charles S. Parnell",
-   "FIELD3": "3 January 1882",
-   "FIELD4": "16 August 1882",
-   "FIELD5": ""
+   "Number": "6",
+   "Name of recipient": "John Dillon",
+   "Date of Resolution": "3 January 1882",
+   "Date of Signature": "16 August 1882",
+   "Notes": ""
  },
  {
-   "FIELD1": "6",
-   "FIELD2": "John Dillon",
-   "FIELD3": "3 January 1882",
-   "FIELD4": "16 August 1882",
-   "FIELD5": ""
+   "Number": "7",
+   "Name of recipient": "Kevin Izod O�Doherty",
+   "Date of Resolution": "10 August 1885",
+   "Date of Signature": "1 September 1885",
+   "Notes": ""
  },
  {
-   "FIELD1": "7",
-   "FIELD2": "Kevin Izod O�Doherty",
-   "FIELD3": "10 August 1885",
-   "FIELD4": "1 September 1885",
-   "FIELD5": ""
+   "Number": "8",
+   "Name of recipient": "Patrick A. Collins",
+   "Date of Resolution": "22 July 1887",
+   "Date of Signature": "2 August 1887",
+   "Notes": ""
  },
  {
-   "FIELD1": "8",
-   "FIELD2": "Patrick A. Collins",
-   "FIELD3": "22 July 1887",
-   "FIELD4": "2 August 1887",
-   "FIELD5": ""
+   "Number": "9",
+   "Name of recipient": "William O�Brien",
+   "Date of Resolution": "22 July 1887",
+   "Date of Signature": "2 August 1887",
+   "Notes": ""
  },
  {
-   "FIELD1": "9",
-   "FIELD2": "William O�Brien",
-   "FIELD3": "22 July 1887",
-   "FIELD4": "2 August 1887",
-   "FIELD5": ""
+   "Number": "10",
+   "Name of recipient": "[The Marquess of] Ripon",
+   "Date of Resolution": "16 January 1888",
+   "Date of Signature": "2 February 1888",
+   "Notes": ""
  },
  {
-   "FIELD1": "10",
-   "FIELD2": "[The Marquess of] Ripon",
-   "FIELD3": "16 January 1888",
-   "FIELD4": "2 February 1888",
-   "FIELD5": ""
+   "Number": "11",
+   "Name of recipient": "John Morley",
+   "Date of Resolution": "16 January 1888",
+   "Date of Signature": "2 February 1888",
+   "Notes": ""
  },
  {
-   "FIELD1": "11",
-   "FIELD2": "John Morley",
-   "FIELD3": "16 January 1888",
-   "FIELD4": "2 February 1888",
-   "FIELD5": ""
+   "Number": "12",
+   "Name of recipient": "Patrick F. Cardinal Moran",
+   "Date of Resolution": "1 October 1888",
+   "Date of Signature": "4 October 1888",
+   "Notes": ""
  },
  {
-   "FIELD1": "12",
-   "FIELD2": "Patrick F. Cardinal Moran",
-   "FIELD3": "1 October 1888",
-   "FIELD4": "4 October 1888",
-   "FIELD5": ""
+   "Number": "13",
+   "Name of recipient": "Margaret Sandhurst",
+   "Date of Resolution": "19 September 1889",
+   "Date of Signature": "20 September 1889",
+   "Notes": ""
  },
  {
-   "FIELD1": "13",
-   "FIELD2": "Margaret Sandhurst",
-   "FIELD3": "19 September 1889",
-   "FIELD4": "20 September 1889",
-   "FIELD5": ""
+   "Number": "14",
+   "Name of recipient": "James Stansfeld",
+   "Date of Resolution": "19 September 1889",
+   "Date of Signature": "20 September 1889",
+   "Notes": ""
  },
  {
-   "FIELD1": "14",
-   "FIELD2": "James Stansfeld",
-   "FIELD3": "19 September 1889",
-   "FIELD4": "20 September 1889",
-   "FIELD5": ""
+   "Number": "15",
+   "Name of recipient": "George Salmon",
+   "Date of Resolution": "14 March 1892",
+   "Date of Signature": "30 June 1892",
+   "Notes": ""
  },
  {
-   "FIELD1": "15",
-   "FIELD2": "George Salmon",
-   "FIELD3": "14 March 1892",
-   "FIELD4": "30 June 1892",
-   "FIELD5": ""
+   "Number": "16",
+   "Name of recipient": "Stuart Knill",
+   "Date of Resolution": "23 December 1892",
+   "Date of Signature": "2 January 1893",
+   "Notes": ""
  },
  {
-   "FIELD1": "16",
-   "FIELD2": "Stuart Knill",
-   "FIELD3": "23 December 1892",
-   "FIELD4": "2 January 1893",
-   "FIELD5": ""
+   "Number": "9a",
+   "Name of recipient": "Timothy Daniel Sullivan",
+   "Date of Resolution": "10 December 1887",
+   "Date of Signature": "24 October 1893",
+   "Notes": ""
  },
  {
-   "FIELD1": "9a",
-   "FIELD2": "Timothy Daniel Sullivan",
-   "FIELD3": "10 December 1887",
-   "FIELD4": "24 October 1893",
-   "FIELD5": ""
+   "Number": "9b *",
+   "Name of recipient": "Thomas Sexton",
+   "Date of Resolution": "28 December 1887",
+   "Date of Signature": "Did not sign roll",
+   "Notes": "Thomas Sexton did not sign the Roll of Honorary Freedom.  His name has been added in pencil by another hand"
  },
  {
-   "FIELD1": "9b *",
-   "FIELD2": "Thomas Sexton",
-   "FIELD3": "28 December 1887",
-   "FIELD4": "Did not sign roll",
-   "FIELD5": "Thomas Sexton did not sign the Roll of Honorary Freedom.  His name has been added in pencil by another hand"
+   "Number": "17",
+   "Name of recipient": "J.E. Redmond",
+   "Date of Resolution": "18-Dec-01",
+   "Date of Signature": "03-Apr-02",
+   "Notes": ""
  },
  {
-   "FIELD1": "17",
-   "FIELD2": "J.E. Redmond",
-   "FIELD3": "18-Dec-01",
-   "FIELD4": "03-Apr-02",
-   "FIELD5": ""
+   "Number": "18",
+   "Name of recipient": "P. A. McHugh",
+   "Date of Resolution": "30-Oct-01",
+   "Date of Signature": "03-Apr-02",
+   "Notes": ""
  },
  {
-   "FIELD1": "18",
-   "FIELD2": "P. A. McHugh",
-   "FIELD3": "30-Oct-01",
-   "FIELD4": "03-Apr-02",
-   "FIELD5": ""
+   "Number": "19",
+   "Name of recipient": "An Craoibh�n Aoibh�n[Douglas Hyde]",
+   "Date of Resolution": "29-Jun-06",
+   "Date of Signature": "07-Aug-06",
+   "Notes": ""
  },
  {
-   "FIELD1": "19",
-   "FIELD2": "An Craoibh�n Aoibh�n[Douglas Hyde]",
-   "FIELD3": "29-Jun-06",
-   "FIELD4": "07-Aug-06",
-   "FIELD5": ""
+   "Number": "20",
+   "Name of recipient": "Spencer Harty",
+   "Date of Resolution": "02-Sep-07",
+   "Date of Signature": "No date given",
+   "Notes": ""
  },
  {
-   "FIELD1": "20",
-   "FIELD2": "Spencer Harty",
-   "FIELD3": "02-Sep-07",
-   "FIELD4": "No date given",
-   "FIELD5": ""
+   "Number": "20a *",
+   "Name of recipient": "Hugh P. Lane",
+   "Date of Resolution": "10-Feb-08",
+   "Date of Signature": "Did not sign roll",
+   "Notes": "Sir Hugh Lane did not sign the Roll of Honorary Freedom.  His name was added in pencil by a later hand."
  },
  {
-   "FIELD1": "20a *",
-   "FIELD2": "Hugh P. Lane",
-   "FIELD3": "10-Feb-08",
-   "FIELD4": "Did not sign roll",
-   "FIELD5": "Sir Hugh Lane did not sign the Roll of Honorary Freedom.  His name was added in pencil by a later hand."
+   "Number": "",
+   "Name of recipient": "",
+   "Date of Resolution": "",
+   "Date of Signature": "",
+   "Notes": ""
  },
  {
-   "FIELD1": "",
-   "FIELD2": "",
-   "FIELD3": "",
-   "FIELD4": "",
-   "FIELD5": ""
+   "Number": "21",
+   "Name of recipient": "Richard Croker",
+   "Date of Resolution": "01-Jul-07",
+   "Date of Signature": "24-Aug-08",
+   "Notes": ""
  },
  {
-   "FIELD1": "21",
-   "FIELD2": "Richard Croker",
-   "FIELD3": "01-Jul-07",
-   "FIELD4": "24-Aug-08",
-   "FIELD5": ""
+   "Number": "22",
+   "Name of recipient": "E. O�Meagher Condon",
+   "Date of Resolution": "28-Sep-09",
+   "Date of Signature": "04-Oct-09",
+   "Notes": ""
  },
  {
-   "FIELD1": "22",
-   "FIELD2": "E. O�Meagher Condon",
-   "FIELD3": "28-Sep-09",
-   "FIELD4": "04-Oct-09",
-   "FIELD5": ""
+   "Number": "23",
+   "Name of recipient": "Charles A. Cameron",
+   "Date of Resolution": "30-Sep-10",
+   "Date of Signature": "20-Feb-11",
+   "Notes": ""
  },
  {
-   "FIELD1": "23",
-   "FIELD2": "Charles A. Cameron",
-   "FIELD3": "30-Sep-10",
-   "FIELD4": "20-Feb-11",
-   "FIELD5": ""
+   "Number": "24**",
+   "Name of recipient": "Kuno Meyer",
+   "Date of Resolution": "18-Jul-11",
+   "Date of Signature": "22-Apr-12",
+   "Notes": "Inspired by a wave of anti-German sentiment prevalent during the First World War, Dublin City Council voted on 15 March 1915 to expunge the name of Kuno Meyer from the Roll of  Honorary Freedom. The expunging resolution was rescinded by Dublin City Council on 19 April 1920, after Dr. Meyer�s death."
  },
  {
-   "FIELD1": "24**",
-   "FIELD2": "Kuno Meyer",
-   "FIELD3": "18-Jul-11",
-   "FIELD4": "22-Apr-12",
-   "FIELD5": "Inspired by a wave of anti-German sentiment prevalent during the First World War, Dublin City Council voted on 15 March 1915 to expunge the name of Kuno Meyer from the Roll of  Honorary Freedom. The expunging resolution was rescinded by Dublin City Council on 19 April 1920, after Dr. Meyer�s death."
+   "Number": "",
+   "Name of recipient": "",
+   "Date of Resolution": "",
+   "Date of Signature": "",
+   "Notes": ""
  },
  {
-   "FIELD1": "",
-   "FIELD2": "",
-   "FIELD3": "",
-   "FIELD4": "",
-   "FIELD5": ""
+   "Number": "25",
+   "Name of recipient": "Peadar Ua Laoghaire",
+   "Date of Resolution": "18-Jul-11",
+   "Date of Signature": "22-Apr-12",
+   "Notes": ""
  },
  {
-   "FIELD1": "25",
-   "FIELD2": "Peadar Ua Laoghaire",
-   "FIELD3": "18-Jul-11",
-   "FIELD4": "22-Apr-12",
-   "FIELD5": ""
+   "Number": "25a ***",
+   "Name of recipient": "Daniel Mannix",
+   "Date of Resolution": "05-Aug-20",
+   "Date of Signature": "Did not sign roll",
+   "Notes": "Archbishop Daniel Mannix did not sign the Roll.  His name was added in pencil by a later hand."
  },
  {
-   "FIELD1": "25a ***",
-   "FIELD2": "Daniel Mannix",
-   "FIELD3": "05-Aug-20",
-   "FIELD4": "Did not sign roll",
-   "FIELD5": "Archbishop Daniel Mannix did not sign the Roll.  His name was added in pencil by a later hand."
+   "Number": "26",
+   "Name of recipient": "John McCormack",
+   "Date of Resolution": "03-Sep-23",
+   "Date of Signature": "06-Sep-23",
+   "Notes": ""
  },
  {
-   "FIELD1": "26",
-   "FIELD2": "John McCormack",
-   "FIELD3": "03-Sep-23",
-   "FIELD4": "06-Sep-23",
-   "FIELD5": ""
+   "Number": "27",
+   "Name of recipient": "Ehrenfried Gunther Baron von Hunefeld",
+   "Date of Resolution": "30-Jun-28",
+   "Date of Signature": "03-Jul-28",
+   "Notes": ""
  },
  {
-   "FIELD1": "27",
-   "FIELD2": "Ehrenfried Gunther Baron von Hunefeld",
-   "FIELD3": "30-Jun-28",
-   "FIELD4": "03-Jul-28",
-   "FIELD5": ""
+   "Number": "28",
+   "Name of recipient": "Hermann Koehl",
+   "Date of Resolution": "30-Jun-28",
+   "Date of Signature": "03-Jul-28",
+   "Notes": ""
  },
  {
-   "FIELD1": "28",
-   "FIELD2": "Hermann Koehl",
-   "FIELD3": "30-Jun-28",
-   "FIELD4": "03-Jul-28",
-   "FIELD5": ""
+   "Number": "29",
+   "Name of recipient": "James C.  Fitzmaurice",
+   "Date of Resolution": "30-Jun-28",
+   "Date of Signature": "03-Jul-28",
+   "Notes": ""
  },
  {
-   "FIELD1": "29",
-   "FIELD2": "James C.  Fitzmaurice",
-   "FIELD3": "30-Jun-28",
-   "FIELD4": "03-Jul-28",
-   "FIELD5": ""
+   "Number": "30",
+   "Name of recipient": "Frank B. Kellogg",
+   "Date of Resolution": "25-Aug-28",
+   "Date of Signature": "30-Aug-28",
+   "Notes": ""
  },
  {
-   "FIELD1": "30",
-   "FIELD2": "Frank B. Kellogg",
-   "FIELD3": "25-Aug-28",
-   "FIELD4": "30-Aug-28",
-   "FIELD5": ""
+   "Number": "31",
+   "Name of recipient": "Lorenzo Cardinal Lauri",
+   "Date of Resolution": "02-May-32",
+   "Date of Signature": "27-Jun-32",
+   "Notes": ""
  },
  {
-   "FIELD1": "31",
-   "FIELD2": "Lorenzo Cardinal Lauri",
-   "FIELD3": "02-May-32",
-   "FIELD4": "27-Jun-32",
-   "FIELD5": ""
+   "Number": "32",
+   "Name of recipient": "John Lavery",
+   "Date of Resolution": "12-Aug-35",
+   "Date of Signature": "17-Sep-35",
+   "Notes": ""
  },
  {
-   "FIELD1": "32",
-   "FIELD2": "John Lavery",
-   "FIELD3": "12-Aug-35",
-   "FIELD4": "17-Sep-35",
-   "FIELD5": ""
+   "Number": "33",
+   "Name of recipient": "John Purser Griffith",
+   "Date of Resolution": "04-May-36",
+   "Date of Signature": "08-Jun-36",
+   "Notes": ""
  },
  {
-   "FIELD1": "33",
-   "FIELD2": "John Purser Griffith",
-   "FIELD3": "04-May-36",
-   "FIELD4": "08-Jun-36",
-   "FIELD5": ""
+   "Number": "34",
+   "Name of recipient": "G. Bernard Shaw",
+   "Date of Resolution": "04-Mar-46",
+   "Date of Signature": "28-Aug-46",
+   "Notes": ""
  },
  {
-   "FIELD1": "34",
-   "FIELD2": "G. Bernard Shaw",
-   "FIELD3": "04-Mar-46",
-   "FIELD4": "28-Aug-46",
-   "FIELD5": ""
+   "Number": "35",
+   "Name of recipient": "Richard J. Cushing",
+   "Date of Resolution": "16-Sep-49",
+   "Date of Signature": "16-Sep-49",
+   "Notes": ""
  },
  {
-   "FIELD1": "35",
-   "FIELD2": "Richard J. Cushing",
-   "FIELD3": "16-Sep-49",
-   "FIELD4": "16-Sep-49",
-   "FIELD5": ""
+   "Number": "36",
+   "Name of recipient": "Paul A. Dever",
+   "Date of Resolution": "",
+   "Date of Signature": "16-Sep-49",
+   "Notes": "16-Sep-49"
  },
  {
-   "FIELD1": "36",
-   "FIELD2": "Paul A. Dever",
-   "FIELD3": "",
-   "FIELD4": "16-Sep-49",
-   "FIELD5": "16-Sep-49"
+   "Number": "37",
+   "Name of recipient": "Sean T. O Ceallaigh",
+   "Date of Resolution": "04-May-53",
+   "Date of Signature": "02-Jun-53",
+   "Notes": ""
  },
  {
-   "FIELD1": "37",
-   "FIELD2": "Sean T. O Ceallaigh",
-   "FIELD3": "04-May-53",
-   "FIELD4": "02-Jun-53",
-   "FIELD5": ""
+   "Number": "38",
+   "Name of recipient": "John Cardinal D�Alton",
+   "Date of Resolution": "04-May-53",
+   "Date of Signature": "02-Jun-53",
+   "Notes": ""
  },
  {
-   "FIELD1": "38",
-   "FIELD2": "John Cardinal D�Alton",
-   "FIELD3": "04-May-53",
-   "FIELD4": "02-Jun-53",
-   "FIELD5": ""
+   "Number": "39",
+   "Name of recipient": "Gerald P. O�Hara",
+   "Date of Resolution": "12-Jul-54",
+   "Date of Signature": "27-Jul-54",
+   "Notes": ""
  },
  {
-   "FIELD1": "39",
-   "FIELD2": "Gerald P. O�Hara",
-   "FIELD3": "12-Jul-54",
-   "FIELD4": "27-Jul-54",
-   "FIELD5": ""
+   "Number": "44*",
+   "Name of recipient": "A. Chester Beatty",
+   "Date of Resolution": "07-Nov-55",
+   "Date of Signature": "26-Jul-56",
+   "Notes": "The numbering system, which had been disrupted by the insertion of nos. 9a, 9b, 20a and 25b, was brought into correct sequence in 1955.   The next recipient, Sir Alfred Chester Beatty, who was the 44th person to receive the Honorary Freedom of Dublin, was numbered accordingly as no. 44."
  },
  {
-   "FIELD1": "44*",
-   "FIELD2": "A. Chester Beatty",
-   "FIELD3": "07-Nov-55",
-   "FIELD4": "26-Jul-56",
-   "FIELD5": "The numbering system, which had been disrupted by the insertion of nos. 9a, 9b, 20a and 25b, was brought into correct sequence in 1955.   The next recipient, Sir Alfred Chester Beatty, who was the 44th person to receive the Honorary Freedom of Dublin, was numbered accordingly as no. 44."
+   "Number": "45",
+   "Name of recipient": "John F. Norton",
+   "Date of Resolution": "11-Aug-58",
+   "Date of Signature": "28-Oct-58",
+   "Notes": ""
  },
  {
-   "FIELD1": "45",
-   "FIELD2": "John F. Norton",
-   "FIELD3": "11-Aug-58",
-   "FIELD4": "28-Oct-58",
-   "FIELD5": ""
+   "Number": "46",
+   "Name of recipient": "G.P. Cardinal Agagianian",
+   "Date of Resolution": "01-May-61",
+   "Date of Signature": "22-Jun-61",
+   "Notes": ""
  },
  {
-   "FIELD1": "46",
-   "FIELD2": "G.P. Cardinal Agagianian",
-   "FIELD3": "01-May-61",
-   "FIELD4": "22-Jun-61",
-   "FIELD5": ""
+   "Number": "47",
+   "Name of recipient": "Michael Cardinal Browne",
+   "Date of Resolution": "16-Jul-62",
+   "Date of Signature": "23-Aug-62",
+   "Notes": ""
  },
  {
-   "FIELD1": "47",
-   "FIELD2": "Michael Cardinal Browne",
-   "FIELD3": "16-Jul-62",
-   "FIELD4": "23-Aug-62",
-   "FIELD5": ""
+   "Number": "48",
+   "Name of recipient": "John F. Kennedy",
+   "Date of Resolution": "27-May-63",
+   "Date of Signature": "28-Jun-63",
+   "Notes": ""
  },
  {
-   "FIELD1": "48",
-   "FIELD2": "John F. Kennedy",
-   "FIELD3": "27-May-63",
-   "FIELD4": "28-Jun-63",
-   "FIELD5": ""
+   "Number": "49",
+   "Name of recipient": "Hilton R.H. Edwards",
+   "Date of Resolution": "11-Jun-73",
+   "Date of Signature": "22-Jun-73",
+   "Notes": ""
  },
  {
-   "FIELD1": "49",
-   "FIELD2": "Hilton R.H. Edwards",
-   "FIELD3": "11-Jun-73",
-   "FIELD4": "22-Jun-73",
-   "FIELD5": ""
+   "Number": "50",
+   "Name of recipient": "Miche�l Mac Liamm�ir",
+   "Date of Resolution": "11-Jun-73",
+   "Date of Signature": "22-Jun-73",
+   "Notes": ""
  },
  {
-   "FIELD1": "50",
-   "FIELD2": "Miche�l Mac Liamm�ir",
-   "FIELD3": "11-Jun-73",
-   "FIELD4": "22-Jun-73",
-   "FIELD5": ""
+   "Number": "51",
+   "Name of recipient": "Eamon de Valera",
+   "Date of Resolution": "03-Feb-75",
+   "Date of Signature": "07-Mar-75",
+   "Notes": ""
  },
  {
-   "FIELD1": "51",
-   "FIELD2": "Eamon de Valera",
-   "FIELD3": "03-Feb-75",
-   "FIELD4": "07-Mar-75",
-   "FIELD5": ""
+   "Number": "52",
+   "Name of recipient": "John A. Costello",
+   "Date of Resolution": "03-Feb-75",
+   "Date of Signature": "07-Mar-75",
+   "Notes": ""
  },
  {
-   "FIELD1": "52",
-   "FIELD2": "John A. Costello",
-   "FIELD3": "03-Feb-75",
-   "FIELD4": "07-Mar-75",
-   "FIELD5": ""
+   "Number": "53",
+   "Name of recipient": "Joannes Paulus PP. II",
+   "Date of Resolution": "24-Sep-79",
+   "Date of Signature": "29-Sep-79",
+   "Notes": ""
  },
  {
-   "FIELD1": "53",
-   "FIELD2": "Joannes Paulus PP. II",
-   "FIELD3": "24-Sep-79",
-   "FIELD4": "29-Sep-79",
-   "FIELD5": ""
+   "Number": "54",
+   "Name of recipient": "Noel Purcell",
+   "Date of Resolution": "22-Jun-84",
+   "Date of Signature": "28-Jun-84",
+   "Notes": ""
  },
  {
-   "FIELD1": "54",
-   "FIELD2": "Noel Purcell",
-   "FIELD3": "22-Jun-84",
-   "FIELD4": "28-Jun-84",
-   "FIELD5": ""
+   "Number": "55",
+   "Name of recipient": "Maureen Potter (O�Leary)",
+   "Date of Resolution": "22-Jun-84",
+   "Date of Signature": "28-Jun-84",
+   "Notes": ""
  },
  {
-   "FIELD1": "55",
-   "FIELD2": "Maureen Potter (O�Leary)",
-   "FIELD3": "22-Jun-84",
-   "FIELD4": "28-Jun-84",
-   "FIELD5": ""
+   "Number": "56",
+   "Name of recipient": "Akihito",
+   "Date of Resolution": "20-Feb-85",
+   "Date of Signature": "04-Mar-85",
+   "Notes": ""
  },
  {
-   "FIELD1": "56",
-   "FIELD2": "Akihito",
-   "FIELD3": "20-Feb-85",
-   "FIELD4": "04-Mar-85",
-   "FIELD5": ""
+   "Number": "57",
+   "Name of recipient": "Michiko",
+   "Date of Resolution": "20-Feb-85",
+   "Date of Signature": "04-Mar-85",
+   "Notes": ""
  },
  {
-   "FIELD1": "57",
-   "FIELD2": "Michiko",
-   "FIELD3": "20-Feb-85",
-   "FIELD4": "04-Mar-85",
-   "FIELD5": ""
+   "Number": "58",
+   "Name of recipient": "Stephen Roche",
+   "Date of Resolution": "28-Sep-87",
+   "Date of Signature": "29-Sep-87",
+   "Notes": ""
  },
  {
-   "FIELD1": "58",
-   "FIELD2": "Stephen Roche",
-   "FIELD3": "28-Sep-87",
-   "FIELD4": "29-Sep-87",
-   "FIELD5": ""
+   "Number": "59",
+   "Name of recipient": "Nelson Mandela",
+   "Date of Resolution": "18-Jul-88",
+   "Date of Signature": "01-Jul-90",
+   "Notes": ""
  },
  {
-   "FIELD1": "59",
-   "FIELD2": "Nelson Mandela",
-   "FIELD3": "18-Jul-88",
-   "FIELD4": "01-Jul-90",
-   "FIELD5": ""
+   "Number": "60",
+   "Name of recipient": "P�draig Ua hIrighile",
+   "Date of Resolution": "04-Mar-91",
+   "Date of Signature": "22-Apr-91",
+   "Notes": ""
  },
  {
-   "FIELD1": "60",
-   "FIELD2": "P�draig Ua hIrighile",
-   "FIELD3": "04-Mar-91",
-   "FIELD4": "22-Apr-91",
-   "FIELD5": ""
+   "Number": "61",
+   "Name of recipient": "M. Teresa M.C.",
+   "Date of Resolution": "01-Feb-93",
+   "Date of Signature": "02-Jun-93",
+   "Notes": ""
  },
  {
-   "FIELD1": "61",
-   "FIELD2": "M. Teresa M.C.",
-   "FIELD3": "01-Feb-93",
-   "FIELD4": "02-Jun-93",
-   "FIELD5": ""
+   "Number": "62",
+   "Name of recipient": "John [Jack] Charlton",
+   "Date of Resolution": "11-Apr-94",
+   "Date of Signature": "26-May-94",
+   "Notes": ""
  },
  {
-   "FIELD1": "62",
-   "FIELD2": "John [Jack] Charlton",
-   "FIELD3": "11-Apr-94",
-   "FIELD4": "26-May-94",
-   "FIELD5": ""
+   "Number": "63",
+   "Name of recipient": "William J. Clinton",
+   "Date of Resolution": "06-Nov-95",
+   "Date of Signature": "01-Dec-95",
+   "Notes": ""
  },
  {
-   "FIELD1": "63",
-   "FIELD2": "William J. Clinton",
-   "FIELD3": "06-Nov-95",
-   "FIELD4": "01-Dec-95",
-   "FIELD5": ""
+   "Number": "64",
+   "Name of recipient": "Gabriel M. Byrne",
+   "Date of Resolution": "12-Apr-99",
+   "Date of Signature": "11-May-99",
+   "Notes": ""
  },
  {
-   "FIELD1": "64",
-   "FIELD2": "Gabriel M. Byrne",
-   "FIELD3": "12-Apr-99",
-   "FIELD4": "11-May-99",
-   "FIELD5": ""
+   "Number": "65*",
+   "Name of recipient": "Aung San Suu Kyi",
+   "Date of Resolution": "01-Nov-99",
+   "Date of Signature": "18-Jun-02",
+   "Notes": "Aung San Suu Kyi was under house arrest in Burma when she received the Honorary Freedom of Dublin - she signed the Roll of Honour on the 18th June 2012 in Dublin."
  },
  {
-   "FIELD1": "65*",
-   "FIELD2": "Aung San Suu Kyi",
-   "FIELD3": "01-Nov-99",
-   "FIELD4": "18-Jun-02",
-   "FIELD5": "Aung San Suu Kyi was under house arrest in Burma when she received the Honorary Freedom of Dublin - she signed the Roll of Honour on the 18th June 2012 in Dublin."
+   "Number": "66",
+   "Name of recipient": "Paul McGuinness",
+   "Date of Resolution": "01-Nov-99",
+   "Date of Signature": "18-Mar-00",
+   "Notes": ""
  },
  {
-   "FIELD1": "66",
-   "FIELD2": "Paul McGuinness",
-   "FIELD3": "01-Nov-99",
-   "FIELD4": "18-Mar-00",
-   "FIELD5": ""
+   "Number": "67",
+   "Name of recipient": "The Edge",
+   "Date of Resolution": "01-Nov-99",
+   "Date of Signature": "18-Mar-00",
+   "Notes": ""
  },
  {
-   "FIELD1": "67",
-   "FIELD2": "The Edge",
-   "FIELD3": "01-Nov-99",
-   "FIELD4": "18-Mar-00",
-   "FIELD5": ""
+   "Number": "68",
+   "Name of recipient": "Larry Mullen Junior",
+   "Date of Resolution": "01-Nov-99",
+   "Date of Signature": "18-Mar-00",
+   "Notes": ""
  },
  {
-   "FIELD1": "68",
-   "FIELD2": "Larry Mullen Junior",
-   "FIELD3": "01-Nov-99",
-   "FIELD4": "18-Mar-00",
-   "FIELD5": ""
+   "Number": "69",
+   "Name of recipient": "Adam Clayton",
+   "Date of Resolution": "01-Nov-99",
+   "Date of Signature": "18-Mar-00",
+   "Notes": ""
  },
  {
-   "FIELD1": "69",
-   "FIELD2": "Adam Clayton",
-   "FIELD3": "01-Nov-99",
-   "FIELD4": "18-Mar-00",
-   "FIELD5": ""
+   "Number": "70",
+   "Name of recipient": "Bono",
+   "Date of Resolution": "01-Nov-99",
+   "Date of Signature": "18-Mar-00",
+   "Notes": ""
  },
  {
-   "FIELD1": "70",
-   "FIELD2": "Bono",
-   "FIELD3": "01-Nov-99",
-   "FIELD4": "18-Mar-00",
-   "FIELD5": ""
+   "Number": "71",
+   "Name of recipient": "Mikhail Gorbachev",
+   "Date of Resolution": "03-Dec-01",
+   "Date of Signature": "09-Jan-02",
+   "Notes": ""
  },
  {
-   "FIELD1": "71",
-   "FIELD2": "Mikhail Gorbachev",
-   "FIELD3": "03-Dec-01",
-   "FIELD4": "09-Jan-02",
-   "FIELD5": ""
+   "Number": "72",
+   "Name of recipient": "Kevin Heffernan",
+   "Date of Resolution": "01-Mar-04",
+   "Date of Signature": "17-May-04",
+   "Notes": ""
  },
  {
-   "FIELD1": "72",
-   "FIELD2": "Kevin Heffernan",
-   "FIELD3": "01-Mar-04",
-   "FIELD4": "17-May-04",
-   "FIELD5": ""
+   "Number": "73",
+   "Name of recipient": "Ronnie Delany",
+   "Date of Resolution": "05-Sep-05",
+   "Date of Signature": "05-Mar-06",
+   "Notes": ""
  },
  {
-   "FIELD1": "73",
-   "FIELD2": "Ronnie Delany",
-   "FIELD3": "05-Sep-05",
-   "FIELD4": "05-Mar-06",
-   "FIELD5": ""
+   "Number": "74",
+   "Name of recipient": "Bob Geldof",
+   "Date of Resolution": "05-Sep-05",
+   "Date of Signature": "05-Mar-06",
+   "Notes": ""
  },
  {
-   "FIELD1": "74",
-   "FIELD2": "Bob Geldof",
-   "FIELD3": "05-Sep-05",
-   "FIELD4": "05-Mar-06",
-   "FIELD5": ""
+   "Number": "75",
+   "Name of recipient": "Thomas Kinsella",
+   "Date of Resolution": "05-Feb-07",
+   "Date of Signature": "24-May-07",
+   "Notes": ""
  },
  {
-   "FIELD1": "75",
-   "FIELD2": "Thomas Kinsella",
-   "FIELD3": "05-Feb-07",
-   "FIELD4": "24-May-07",
-   "FIELD5": ""
+   "Number": "76",
+   "Name of recipient": "Louis Le Brocquy",
+   "Date of Resolution": "05-Feb-07",
+   "Date of Signature": "24-May-07",
+   "Notes": ""
  },
  {
-   "FIELD1": "76",
-   "FIELD2": "Louis Le Brocquy",
-   "FIELD3": "05-Feb-07",
-   "FIELD4": "24-May-07",
-   "FIELD5": ""
+   "Number": "77",
+   "Name of recipient": "Fr. Peter McVerry SJ",
+   "Date of Resolution": "04-Nov-13",
+   "Date of Signature": "22-Mar-14",
+   "Notes": ""
  },
  {
-   "FIELD1": "77",
-   "FIELD2": "Fr. Peter McVerry SJ",
-   "FIELD3": "04-Nov-13",
-   "FIELD4": "22-Mar-14",
-   "FIELD5": ""
+   "Number": "78",
+   "Name of recipient": "Brian O'Driscoll",
+   "Date of Resolution": "04-Nov-13",
+   "Date of Signature": "22-Mar-14",
+   "Notes": ""
  },
  {
-   "FIELD1": "78",
-   "FIELD2": "Brian O'Driscoll",
-   "FIELD3": "04-Nov-13",
-   "FIELD4": "22-Mar-14",
-   "FIELD5": ""
+   "Number": "79",
+   "Name of recipient": "Bro. Kevin Crowley OFM Cap",
+   "Date of Resolution": "01-Sep-14",
+   "Date of Signature": "28-Feb-15",
+   "Notes": ""
  },
  {
-   "FIELD1": "79",
-   "FIELD2": "Bro. Kevin Crowley OFM Cap",
-   "FIELD3": "01-Sep-14",
-   "FIELD4": "28-Feb-15",
-   "FIELD5": ""
+   "Number": "80",
+   "Name of recipient": "John Giles",
+   "Date of Resolution": "01-Sep-14",
+   "Date of Signature": "28-Feb-15",
+   "Notes": ""
  },
  {
-   "FIELD1": "80",
-   "FIELD2": "John Giles",
-   "FIELD3": "01-Sep-14",
-   "FIELD4": "28-Feb-15",
-   "FIELD5": ""
- },
- {
-   "FIELD1": "81",
-   "FIELD2": "Fr. Joseph Malin SJ",
-   "FIELD3": "07-Mar-16",
-   "FIELD4": "21-Mar-16",
-   "FIELD5": ""
+   "Number": "81",
+   "Name of recipient": "Fr. Joseph Malin SJ",
+   "Date of Resolution": "07-Mar-16",
+   "Date of Signature": "21-Mar-16",
+   "Notes": ""
  }
 ]
