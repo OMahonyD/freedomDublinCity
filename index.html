@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+
+		<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha.6/css/bootstrap.min.css"/>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+		<script type="text/javascript" src="freedomDublinCity.json"></script>
+		<script>
+		
+			var myData = function(){
+				$.getJSON('freedomDublinCity.json', function(data){
+					for(var i = 0; i < data.length; i++){
+						var info = data[i];
+						$('.row').append("<div class='col-sm-12 col-md-3'><img class='img-responsive' src='" + info.ImageURL + "' /></div><div class='col-sm-12 col-md-2 text-center lead'>" + info.Recipient + "</div>" + "<div class='col-sm-12 col-md-2 text-center'><strong>Date Resolved:</strong> " + info.Resolution + "</div>" + "<div class='col-sm-12 col-md-2 text-center'><strong>Date Signed:</strong> " + info.Signature + "</div>" + "<div class='col-sm-12 col-md-3 text-center' style='padding-top: 2em;'>" + info.Notes + "</div><hr>");
+					}//end for loop
+				});//end $.getJSON
+			};//end var myData function
+			
+			$(document).ready(function(){
+				myData();
+			});
+			
+			
+							
+		</script>
+		
+		<style>
+		
+			img {
+				margin-bottom: 10px;	
+				width: 200px;
+				height: 250px;
+			}
+		</style>
+		
+	</head>
+
+	<body>
+		<div class="container fluid">
+			<h1 class="text-center">Freemen and Freewomen of Dublin</h1><hr>	
+			<h4 class="text-center">Past recipients of the Keys to the City, in chronological order are:</h4><hr>
+			
+			<div class="row text-center" id="infoRow">
+				
+			
+			
+		</div>
+	
+	</body>
+</html>

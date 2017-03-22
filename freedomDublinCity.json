@@ -1,0 +1,593 @@
+[
+{
+   "Number": "1",
+   "Recipient": "Isaac Butt",
+   "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Portrait_of_Isaac_Butt.jpg/220px-Portrait_of_Isaac_Butt.jpg",
+   "Resolution": "4 September 1876",
+   "Signature": "16 October 1876",
+   "Notes": ""
+ },
+ {
+   "Number": "2",
+   "Recipient": "W.E. Gladstone",
+   "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/1271754717_william-e.-gladstone.jpg/220px-1271754717_william-e.-gladstone.jpg",
+   "Resolution": "1 November 1877",
+   "Signature": "7 November 1877",
+   "Notes": ""
+ },
+ {	
+   "Number": "3",
+   "Recipient": "Ulysses S. Grant",
+   "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Ulysses_S._Grant_1870-1880.jpg",
+   "Resolution": "30 December 1878",
+   "Signature": "3 January 1879",
+   "Notes": ""
+ },
+ {
+   "Number": "4",
+   "Recipient": "Edward E. Potter",
+   "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/6/61/Gen._Edward_E._Potter_-_NARA_-_529382.jpg",
+   "Resolution": "26 April 1880",
+   "Signature": "4 May 1880",
+   "Notes": ""
+ },
+ {
+   "Number": "5",
+   "Recipient": "Charles S. Parnell",
+   "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Charles_Stewart_Parnell_-_Brady-Handy.jpg/220px-Charles_Stewart_Parnell_-_Brady-Handy.jpg",
+   "Resolution": "3 January 1882",
+   "Signature": "16 August 1882",
+   "Notes": ""
+ },
+ {
+   "Number": "6",
+   "Recipient": "John Dillon",
+   "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/9/9e/John_Dillon_(1851-1927).jpg",
+   "Resolution": "3 January 1882",
+   "Signature": "16 August 1882",
+   "Notes": ""
+ },
+ {
+   "Number": "7",
+   "Recipient": "Kevin Izod O'Doherty",
+   "Resolution": "10 August 1885",
+   "Signature": "1 September 1885",
+   "Notes": ""
+ },
+ {
+   "Number": "8",
+   "Recipient": "Patrick A. Collins",
+   "Resolution": "22 July 1887",
+   "Signature": "2 August 1887",
+   "Notes": ""
+ },
+ {
+   "Number": "9",
+   "Recipient": "William O'Brien",
+   "Resolution": "22 July 1887",
+   "Signature": "2 August 1887",
+   "Notes": ""
+ },
+ {
+   "Number": "10",
+   "Recipient": "[The Marquess of] Ripon",
+   "Resolution": "16 January 1888",
+   "Signature": "2 February 1888",
+   "Notes": ""
+ },
+ {
+   "Number": "11",
+   "Recipient": "John Morley",
+   "Resolution": "16 January 1888",
+   "Signature": "2 February 1888",
+   "Notes": ""
+ },
+ {
+   "Number": "12",
+   "Recipient": "Patrick F. Cardinal Moran",
+   "Resolution": "1 October 1888",
+   "Signature": "4 October 1888",
+   "Notes": ""
+ },
+ {
+   "Number": "13",
+   "Recipient": "Margaret Sandhurst",
+   "Resolution": "19 September 1889",
+   "Signature": "20 September 1889",
+   "Notes": ""
+ },
+ {
+   "Number": "14",
+   "Recipient": "James Stansfeld",
+   "Resolution": "19 September 1889",
+   "Signature": "20 September 1889",
+   "Notes": ""
+ },
+ {
+   "Number": "15",
+   "Recipient": "George Salmon",
+   "Resolution": "14 March 1892",
+   "Signature": "30 June 1892",
+   "Notes": ""
+ },
+ {
+   "Number": "16",
+   "Recipient": "Stuart Knill",
+   "Resolution": "23 December 1892",
+   "Signature": "2 January 1893",
+   "Notes": ""
+ },
+ {
+   "Number": "9a",
+   "Recipient": "Timothy Daniel Sullivan",
+   "Resolution": "10 December 1887",
+   "Signature": "24 October 1893",
+   "Notes": ""
+ },
+ {
+   "Number": "9b *",
+   "Recipient": "Thomas Sexton",
+   "Resolution": "28 December 1887",
+   "Signature": "Did not sign roll",
+   "Notes": "Thomas Sexton did not sign the Roll of Honorary Freedom.  His name has been added in pencil by another hand"
+ },
+ {
+   "Number": "17",
+   "Recipient": "J.E. Redmond",
+   "Resolution": "18 December 1901",
+   "Signature": "03 April 1902",
+   "Notes": ""
+ },
+ {
+   "Number": "18",
+   "Recipient": "P. A. McHugh",
+   "Resolution": "30 October 1901",
+   "Signature": "03 April 1902",
+   "Notes": ""
+ },
+ {
+   "Number": "19",
+   "Recipient": "An Craoibhín Aoibhín[Douglas Hyde]",
+   "Resolution": "29 June 1906",
+   "Signature": "07 August 06",
+   "Notes": ""
+ },
+ {
+   "Number": "20",
+   "Recipient": "Spencer Harty",
+   "Resolution": "02 September 1907",
+   "Signature": "No date given",
+   "Notes": ""
+ },
+ {
+   "Number": "20a *",
+   "Recipient": "Hugh P. Lane",
+   "Resolution": "10 February 1908",
+   "Signature": "Did not sign roll",
+   "Notes": "Sir Hugh Lane did not sign the Roll of Honorary Freedom.  His name was added in pencil by a later hand."
+ },
+ {
+   "Number": "21",
+   "Recipient": "Richard Croker",
+   "Resolution": "01 July 1907",
+   "Signature": "24-Aug-08",
+   "Notes": ""
+ },
+ {
+   "Number": "22",
+   "Recipient": "E. O'Meagher Condon",
+   "Resolution": "28 September 1909",
+   "Signature": "04 October 1909",
+   "Notes": ""
+ },
+ {
+   "Number": "23",
+   "Recipient": "Charles A. Cameron",
+   "Resolution": "30 September 1910",
+   "Signature": "20 February 1911",
+   "Notes": ""
+ },
+ {
+   "Number": "24**",
+   "Recipient": "Kuno Meyer",
+   "Resolution": "18 July 1911",
+   "Signature": "22 April 1912",
+   "Notes": "Inspired by a wave of anti-German sentiment prevalent during the First World War, Dublin City Council voted on 15 March 1915 to expunge the name of Kuno Meyer from the Roll of  Honorary Freedom. The expunging resolution was rescinded by Dublin City Council on 19 April 1920, after Dr. Meyer's death."
+ },
+ {
+   "Number": "25",
+   "Recipient": "Peadar Ua Laoghaire",
+   "Resolution": "18 July 1911",
+   "Signature": "22 April 1912",
+   "Notes": ""
+ },
+ {
+   "Number": "25a ***",
+   "Recipient": "Daniel Mannix",
+   "Resolution": "05 August 1920",
+   "Signature": "Did not sign roll",
+   "Notes": "Archbishop Daniel Mannix did not sign the Roll.  His name was added in pencil by a later hand."
+ },
+ {
+   "Number": "26",
+   "Recipient": "John McCormack",
+   "Resolution": "03 September 1923",
+   "Signature": "06 September 1923",
+   "Notes": ""
+ },
+ {
+   "Number": "27",
+   "Recipient": "Ehrenfried Gunther Baron von Hunefeld",
+   "Resolution": "30 June 1928",
+   "Signature": "03 July 1928",
+   "Notes": ""
+ },
+ {
+   "Number": "28",
+   "Recipient": "Hermann Koehl",
+   "Resolution": "30 June 1928",
+   "Signature": "03 July 1928",
+   "Notes": ""
+ },
+ {
+   "Number": "29",
+   "Recipient": "James C.  Fitzmaurice",
+   "Resolution": "30 June 1928",
+   "Signature": "03 July 1928",
+   "Notes": ""
+ },
+ {
+   "Number": "30",
+   "Recipient": "Frank B. Kellogg",
+   "Resolution": "25 August 1928",
+   "Signature": "30 August 1928",
+   "Notes": ""
+ },
+ {
+   "Number": "31",
+   "Recipient": "Lorenzo Cardinal Lauri",
+   "Resolution": "02 May 1932",
+   "Signature": "27 June 1932",
+   "Notes": ""
+ },
+ {
+   "Number": "32",
+   "Recipient": "John Lavery",
+   "Resolution": "12 August 1935",
+   "Signature": "17 September 1935",
+   "Notes": ""
+ },
+ {
+   "Number": "33",
+   "Recipient": "John Purser Griffith",
+   "Resolution": "04 May 1936",
+   "Signature": "08 June 1936",
+   "Notes": ""
+ },
+ {
+   "Number": "34",
+   "Recipient": "G. Bernard Shaw",
+   "Resolution": "04 March 1946",
+   "Signature": "28 August 1946",
+   "Notes": ""
+ },
+ {
+   "Number": "35",
+   "Recipient": "Richard J. Cushing",
+   "Resolution": "16 September 1949",
+   "Signature": "16 September 1949",
+   "Notes": ""
+ },
+ {
+   "Number": "36",
+   "Recipient": "Paul A. Dever",
+   "Resolution": "16 September 1949",
+   "Signature": "16 September 1949",
+   "Notes": ""
+ },
+ {
+   "Number": "37",
+   "Recipient": "Sean T. O Ceallaigh",
+   "Resolution": "04 May 1953",
+   "Signature": "02 June 1953",
+   "Notes": ""
+ },
+ {
+   "Number": "38",
+   "Recipient": "John Cardinal D'Alton",
+   "Resolution": "04 May 1953",
+   "Signature": "02 June 1953",
+   "Notes": ""
+ },
+ {
+   "Number": "39",
+   "Recipient": "Gerald P. O'Hara",
+   "Resolution": "12 July 1954",
+   "Signature": "27 July 1954",
+   "Notes": ""
+ },
+ {
+   "Number": "44*",
+   "Recipient": "A. Chester Beatty",
+   "ImageURL": "https://www.tcd.ie/History_of_Art/assets/img/research/mw98549.jpg",
+   "Resolution": "07 November 1955",
+   "Signature": "26 July 1956",
+   "Notes": "The numbering system, which had been disrupted by the insertion of nos. 9a, 9b, 20a and 25b, was brought into correct sequence in 1955. The next recipient, Sir Alfred Chester Beatty, who was the 44th person to receive the Honorary Freedom of Dublin, was numbered accordingly as no. 44."
+ },
+ {
+   "Number": "45",
+   "Recipient": "John F. Norton",
+   "Resolution": "11 August 1958",
+   "Signature": "28 October 1958",
+   "Notes": ""
+ },
+ {
+   "Number": "46",
+   "Recipient": "G.P. Cardinal Agagianian",
+   "Resolution": "01 May 1961",
+   "Signature": "22 June 1961",
+   "Notes": ""
+ },
+ {
+   "Number": "47",
+   "Recipient": "Michael Cardinal Browne",
+   "Resolution": "16 July 1962",
+   "Signature": "23 August 1962",
+   "Notes": ""
+ },
+ {
+   "Number": "48",
+   "Recipient": "John F. Kennedy",
+   "Resolution": "27 May 1963",
+   "Signature": "28 June 1963",
+   "Notes": ""
+ },
+ {
+   "Number": "49",
+   "Recipient": "Hilton R.H. Edwards",
+   "Resolution": "11 June 1973",
+   "Signature": "22 June 1973",
+   "Notes": ""
+ },
+ {
+   "Number": "50",
+   "Recipient": "Micheál Mac Liammóir",
+   "Resolution": "11 June 1973",
+   "Signature": "22 June 1973",
+   "Notes": ""
+ },
+ {
+   "Number": "51",
+   "Recipient": "Eamon de Valera",
+   "Resolution": "03 February 1975",
+   "Signature": "07 March 1975",
+   "Notes": ""
+ },
+ {
+   "Number": "52",
+   "Recipient": "John A. Costello",
+   "Resolution": "03 February 1975",
+   "Signature": "07 March 1975",
+   "Notes": ""
+ },
+ {
+   "Number": "53",
+   "Recipient": "Joannes Paulus PP. II",
+   "Resolution": "24 September 1979",
+   "Signature": "29 September 1979",
+   "Notes": ""
+ },
+ {
+   "Number": "54",
+   "Recipient": "Noel Purcell",
+   "Resolution": "22 June 1984",
+   "Signature": "28 June 1984",
+   "Notes": ""
+ },
+ {
+   "Number": "55",
+   "Recipient": "Maureen Potter (O'Leary)",
+   "Resolution": "22 June 1984",
+   "Signature": "28 June 1984",
+   "Notes": ""
+ },
+ {
+   "Number": "56",
+   "Recipient": "Akihito",
+   "Resolution": "20 February 1985",
+   "Signature": "04 March 1985",
+   "Notes": ""
+ },
+ {
+   "Number": "57",
+   "Recipient": "Michiko",
+   "Resolution": "20 February 1985",
+   "Signature": "04 March 1985",
+   "Notes": ""
+ },
+ {
+   "Number": "58",
+   "Recipient": "Stephen Roche",
+   "Resolution": "28 September 1987",
+   "Signature": "29 September 1987",
+   "Notes": ""
+ },
+ {
+   "Number": "59",
+   "Recipient": "Nelson Mandela",
+   "Resolution": "18 July 1988",
+   "Signature": "01 July 1990",
+   "Notes": ""
+ },
+ {
+   "Number": "60",
+   "Recipient": "Pádraig Ua hIrighile",
+   "Resolution": "04 March 1991",
+   "Signature": "22 April 1991",
+   "Notes": ""
+ },
+ {
+   "Number": "61",
+   "Recipient": "M. Teresa M.C.",
+   "Resolution": "01 February 1993",
+   "Signature": "02 June 1993",
+   "Notes": ""
+ },
+ {
+   "Number": "62",
+   "Recipient": "John [Jack] Charlton",
+   "Resolution": "11 April 1994",
+   "Signature": "26 May 1994",
+   "Notes": ""
+ },
+ {
+   "Number": "63",
+   "Recipient": "William J. Clinton",
+   "Resolution": "06 November 1995",
+   "Signature": "01 December 1995",
+   "Notes": ""
+ },
+ {
+   "Number": "64",
+   "Recipient": "Gabriel M. Byrne",
+   "Resolution": "12 April 1999",
+   "Signature": "11 May 1999",
+   "Notes": ""
+ },
+ {
+   "Number": "65*",
+   "Recipient": "Aung San Suu Kyi",
+   "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Aung_San_Suu_Kyi_2016.jpg/220px-Aung_San_Suu_Kyi_2016.jpg",
+   "Resolution": "01 November 1999",
+   "Signature": "18 June 2012",
+   "Notes": "Aung San Suu Kyi was under house arrest in Burma when she received the Honorary Freedom of Dublin - she signed the Roll of Honour on the 18th June 2012 in Dublin."
+ },
+ {
+   "Number": "66",
+   "Recipient": "Paul McGuinness",
+   "ImageURL": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2013/11/15/19/28.U2.rex.jpg",
+   "Resolution": "01 November 1999",
+   "Signature": "18 March 2000",
+   "Notes": ""
+ },
+ {
+   "Number": "67",
+   "Recipient": "The Edge",
+   "ImageURL": "https://www.atu2.com/band/edge/edge.jpg",
+   "Resolution": "01 November 1999",
+   "Signature": "18 March 2000",
+   "Notes": ""
+ },
+ {
+   "Number": "68",
+   "Recipient": "Larry Mullen Junior",
+   "ImageURL": "http://www.u2funsite.ru/uploads/member/mallen_big.jpg",
+   "Resolution": "01 November 1999",
+   "Signature": "18 March 2000",
+   "Notes": ""
+ },
+ {
+   "Number": "69",
+   "Recipient": "Adam Clayton",
+   "ImageURL": "https://www.atu2.com/band/adam/adam.jpg",
+   "Resolution": "01 November 1999",
+   "Signature": "18 March 2000",
+   "Notes": ""
+ },
+ {
+   "Number": "70",
+   "Recipient": "Bono",
+   "ImageURL": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ4MzQ5ODgxOV5BMl5BanBnXkFtZTYwNzk3Nzk0._V1_UY317_CR5,0,214,317_AL_.jpg",
+   "Resolution": "01 November 1999",
+   "Signature": "18 March 2000",
+   "Notes": ""
+ },
+ {
+   "Number": "71",
+   "Recipient": "Mikhail Gorbachev",
+   "ImageURL": "http://www.writespirit.net/wp-content/uploads/old-images/gorbachev3.jpg",
+   "Resolution": "03 December 2001",
+   "Signature": "09 Janruary 2002",
+   "Notes": ""
+ },
+ {
+   "Number": "72",
+   "Recipient": "Kevin Heffernan",
+   "ImageURL": "http://www.dublincity.ie/sites/default/files/galleries/091_Kevin_Heffernan.JPG",
+   "Resolution": "01 March 2004",
+   "Signature": "17 May 2004",
+   "Notes": ""
+ },
+ {
+   "Number": "73",
+   "Recipient": "Ronnie Delany",
+   "ImageURL": "http://www.ardmorepatternfestival.ie/wp-content/uploads/2016/06/ron-delaney-now.jpg",
+   "Resolution": "05 September 2005",
+   "Signature": "05 March 2006",
+   "Notes": ""
+ },
+ {
+   "Number": "74",
+   "Recipient": "Bob Geldof",
+   "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/7/76/Geldof%2C_Bob_(IMF_2009).jpg",
+   "Resolution": "05 September 2005",
+   "Signature": "05 March 2006",
+   "Notes": ""
+ },
+ {
+   "Number": "75",
+   "Recipient": "Thomas Kinsella",
+   "ImageURL": "http://engzone.weebly.com/uploads/1/1/0/4/11043293/1369859414.jpg",
+   "Resolution": "05 February 2007",
+   "Signature": "24 May 2007",
+   "Notes": ""
+ },
+ {
+   "Number": "76",
+   "Recipient": "Louis Le Brocquy",
+   "ImageURL": "http://c0.thejournal.ie/media/2012/04/b-310x415.jpg",
+   "Resolution": "05 February 2007",
+   "Signature": "24 May 2007",
+   "Notes": ""
+ },
+ {
+   "Number": "77",
+   "Recipient": "Fr. Peter McVerry SJ",
+   "ImageURL": "https://cdn.evbuc.com/eventlogos/76578405/petermcverry.jpg",
+   "Resolution": "04 Nov 2013",
+   "Signature": "22 March 2014",
+   "Notes": ""
+ },
+ {
+   "Number": "78",
+   "Recipient": "Brian O'Driscoll",
+   "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/5/58/Brian_O%27Driscoll_2.jpg",
+   "Resolution": "04 November 2013",
+   "Signature": "22 March 2014",
+   "Notes": ""
+ },
+ {
+   "Number": "79",
+   "Recipient": "Bro. Kevin Crowley OFM Cap",
+   "ImageURL": "http://cdn-02.herald.ie/news/article31453278.ece/08632/AUTOCROP/w620/PL25722231Cllr.%20Christy%20Bu.jpg",
+   "Resolution": "01 September 2014",
+   "Signature": "28 February 2015",
+   "Notes": ""
+ },
+ {
+   "Number": "80",
+   "Recipient": "John Giles",
+   "ImageURL": "http://lisarichards.ie/thumbnailer/phpThumb.php?src=/images/419.jpg&w=180&zc=1&fltr%5B%5D=usm%7C40%7C2%7C3&q=95",
+   "Resolution": "01 September 2014",
+   "Signature": "28 February 2015",
+   "Notes": ""
+ },
+ {
+   "Number": "81",
+   "Recipient": "Fr. Joseph Malin SJ",
+   "ImageURL": "http://www.messenger.ie/wp-content/uploads/2015/09/Joseph-Mallin-sj.jpg",
+   "Resolution": "07 March 2016",
+   "Signature": "21 March 2016",
+   "Notes": ""
+ }
+]
