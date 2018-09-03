@@ -9,15 +9,19 @@
 		<script>
 		
 			var myData = function(){
-				$.getJSON('freedomDublinCity.json', function(data){
+				$.getJSON('https://api.myjson.com/bins/6a7rw', function(data){
+				console.log(data);
 					for(var i = 0; i < data.length; i++){
 						var info = data[i];
 						$('.row').append("<div class='col-sm-12 col-md-3'><img class='img-responsive' src='" + info.ImageURL + "' /></div><div class='col-sm-12 col-md-2 text-center lead'>" + info.Recipient + "</div>" + "<div class='col-sm-12 col-md-2 text-center'><strong>Date Resolved:</strong> " + info.Resolution + "</div>" + "<div class='col-sm-12 col-md-2 text-center'><strong>Date Signed:</strong> " + info.Signature + "</div>" + "<div class='col-sm-12 col-md-3 text-center' style='padding-top: 2em;'>" + info.Notes + "</div><hr>");
 					}//end for loop
 				});//end $.getJSON
-			};//end var myData function
+			}
 			
-			$(document).ready(function(){
+
+				 
+			
+			$(function(){
 				myData();
 			});
 			
